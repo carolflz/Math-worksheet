@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Math-worksheet/static/css/main.cc842a0d.css",
+    "main.js": "/Math-worksheet/static/js/main.a25a1cd1.js",
+    "index.html": "/Math-worksheet/index.html",
+    "main.cc842a0d.css.map": "/Math-worksheet/static/css/main.cc842a0d.css.map",
+    "main.a25a1cd1.js.map": "/Math-worksheet/static/js/main.a25a1cd1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc842a0d.css",
+    "static/js/main.a25a1cd1.js"
+  ]
+}
